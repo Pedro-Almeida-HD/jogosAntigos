@@ -1,0 +1,65 @@
+body{
+    background-image: url(imagens/intro.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#space0{
+     height: auto;
+     width: 625px;
+}
+#space1{
+    background-image: url(imagens/fundospace.jpg);
+}
+#space2{
+    color: white;
+}
+#space{
+    color: white;
+}
+#pac0{
+    background-image: url(imagens/pacback.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#pac1{
+    color: white;
+}
+#pac2{
+    color: white;
+}
+#dk{
+    background-image: url(imagens/dkback.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#dk1{
+    color: rgb(15, 4, 170);
+}
+#dk2{
+    color:rgb(15, 4, 170)
+}
+#mario{
+    background-image: url(imagens/marioback.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#mario1{
+    color: rgb(84, 117, 177);
+}
+#mario2{
+    color: white;
+}
+#baixo{
+    color: white;
+}
+.conteudo-padrao{
+    text-align: center;
+}
+    
